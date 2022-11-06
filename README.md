@@ -4,7 +4,7 @@ Live demo: https://eduardofmarinho.github.io/AX-Relogios/
 
 In this project, I'm developing a landing page for smartwatch store.
 
-To achieve the final result, I used HTML, CSS, the WhatsApp API and tons and tons of coffee :D
+To achieve the final result, I used HTML, CSS, Bootstrap and tons and tons of coffee :D
 
 # Getting Started
 
@@ -18,7 +18,7 @@ $ git clone https://github.com/EduardoFMarinho/AX-Relogios
 
 This project was developed with the following technologies:
 
-- HTML and CSS
+- HTML, CSS and Bootstrap
 <!-- - [Expo][expo] -->
 
 # Features
@@ -28,6 +28,5 @@ This project was developed with the following technologies:
 
 # Gallery
 
-![Alt text](https://i.imgur.com/aa63owu.png)
+![Alt text](https://imgur.com/UWaeGl6)
 
-![Alt text](https://i.imgur.com/H6xJlhH.png)
