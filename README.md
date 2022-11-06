@@ -28,5 +28,5 @@ This project was developed with the following technologies:
 
 # Gallery
 
-![Alt text](https://imgur.com/UWaeGl6)
+![Alt text](https://i.imgur.com/UWaeGl6.png)
 
